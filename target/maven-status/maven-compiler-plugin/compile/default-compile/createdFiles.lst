@@ -1,0 +1,5 @@
+com\mycompany\rpggame\entity\Player.class
+com\mycompany\rpggame\GamePanel.class
+com\mycompany\rpggame\entity\Entity.class
+com\mycompany\rpggame\KeyHandler.class
+com\mycompany\rpggame\RpgGame.class
